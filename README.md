@@ -1,2 +1,2 @@
 # Control
-This repo is about control theory, it is based on Ryan's repo.
+This repo is about signal processing, communication, and control theory. It is based on Prof. Dokmanik's and Ryan's repo.
